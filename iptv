@@ -931,4 +931,3 @@ http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
 http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
 #EXTINF:0 type="favorites" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png", Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-
