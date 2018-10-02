@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTM3U
 #EXTINF:0 type="favorites" channelId="1954", CANAL DE LAS ESTRELLAS
 http://aleman.mine.nu:8000/live/oscar1/oscar1/1577.ts
